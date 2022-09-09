@@ -16,7 +16,7 @@ const Download = () => {
           <button className={styles.btnPrimary}>Contact Us</button>
           <div className={styles.flexCenter}>
             <img
-              src={assets.scene}
+              src={assets.homeHero}
               alt="react_out"
               className={styles.fullImg}
             />
