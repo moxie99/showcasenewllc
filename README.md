@@ -17,7 +17,8 @@ You may also see any lint errors in the console.
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+See the section about [running tests](https://facebook.github.io/<img width="1440" alt="Screenshot 2022-09-09 at 13 28 52" src="https://user-images.githubusercontent.com/8932275/189350048-02f34271-d723-4d76-8441-af3ac312cee8.png">
+create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
@@ -68,3 +69,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+ 
+deployed on netlify, link is : https://newllcdao.netlify.app
